@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-(Pls note that this was only tested inn React V17, please use the same)
+(Pls note that this was only tested in React V17, please use the same)
 
 ### `npm i`
 
